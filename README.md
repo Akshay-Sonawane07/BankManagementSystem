@@ -96,9 +96,18 @@ Open NetBeans → Run **Login.java**
 
 ## 📸 Screenshots
 
-(Add screenshots here: Login, Signup pages, ATM interface, etc.)
+<img width="757" height="504" alt="Screenshot 2025-12-06 161636" src="https://github.com/user-attachments/assets/4953bfd6-0fcb-4819-8342-59000d4a3aa1" />
+<img width="753" height="852" alt="Screenshot 2025-12-06 161718" src="https://github.com/user-attachments/assets/c0dce3de-4c4c-4b8b-a7f6-f10e5ea4faa3" />
+<img width="833" height="762" alt="Screenshot 2025-12-06 161801" src="https://github.com/user-attachments/assets/0c6c5ad6-1343-4306-aabc-d7728050aaeb" />
+<img width="901" height="595" alt="Screenshot 2025-12-06 162019" src="https://github.com/user-attachments/assets/5696aa1f-1349-4fd2-b60b-9d53650c6228" />
 
----
+
+
+
+
+
+
+
 
 ## 👨‍💻 Developer
 **Akshay Sonawane**  
